@@ -1,18 +1,21 @@
 ## Tutorial
 
-npx create-react-app 06-clone-ui-twitter --template=typescript
-add .prettierrc
-add .editorconfig
-yarn add styled-components styled-icons react-sticky-box
-yarn add @types/styled-components --dev
-disable in tsconfig.json => "isolatedModules": false
+  - npx create-react-app 06-clone-ui-twitter --template=typescript
+  - add .prettierrc
+  - add .editorconfig
+  - yarn add styled-components styled-icons react-sticky-box
+  - yarn add @types/styled-components --dev
+  - disable in tsconfig.json => "isolatedModules": false
 
 ### Principais Extensões do editor:
--Colorize
--Vscode-styled-components
--Rocketseat ReactJS
--Rocketseat ReactJS
--EditorConfig for VS Code
+
+- Colorize
+- Vscode-styled-components
+- Rocketseat ReactJS
+- Rocketseat ReactJS
+- EditorConfig for VS Code
+
+[Link da aula](https://youtu.be/K-8z_4xvT3o)
 
 
 ### `yarn start`
